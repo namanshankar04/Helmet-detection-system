@@ -28,4 +28,4 @@ A real-time helmet detection system developed using Python, OpenCV, and YOLO for
 
 
 
-Naman Shankar
+ Author:-Naman Shankar
